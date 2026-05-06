@@ -122,16 +122,19 @@
     item.innerHTML = words[0] + "<br>" + words.slice(1).join(" ");
   }
 </script>
+<br>
 Jeera ajwain cookies- 49RS
-
-
+<br>
 Tooty frooty cookies- 49RS
-
-
-Chocolate chip cookies-49RS 
+<br>
+Chocolate chip cookies-49RS
+<br>
 Oats and seeds cookies
+<br>
 Coconut crunch
+<br>
 Kesar pista cookies
+<br>
 Misri cookies
 Rose cookies
 Paan cookies
