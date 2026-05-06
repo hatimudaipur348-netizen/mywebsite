@@ -1,3 +1,4 @@
+![My Image](image-name.png)
 <!DOCTYPE html>
 <html lang="en">
 <head>
