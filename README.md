@@ -121,10 +121,14 @@
                 <!-- MENU ITEM 1 -->
                 <div class="card">
                     <div style="font-size: 4em; margin-bottom: 20px;">[🎂]</div>
-                    <h3>[Cookies 
-Jeera ajwain cookies
-Tooty frooty cookies
-Chocolate chip cookies
+                    <h3>[
+Jeera ajwain cookies- 49RS
+
+
+Tooty frooty cookies- 49RS
+
+
+Chocolate chip cookies-49RS 
 Oats and seeds cookies
 Coconut crunch
 Kesar pista cookies
