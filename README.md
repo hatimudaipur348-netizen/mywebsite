@@ -112,15 +112,16 @@
         </div>
     </section>
 
-    <div class="container">
-        <!-- 🖌️ MENU SECTION - ADD/EDIT ITEMS -->
-        <section class="section" id="menu">
-            <h2 class="section-title">[🍰 Our Delicious Menu]</h2>
-            <div class="grid">
-                <!-- MENU ITEM 1 -->
-                <div class="card">
-                    <div style="font-size: 4em; margin-bottom: 20px;">[🎂]</div>
-                    <h3>[
+   <div class="food-item" id="item1">Chicken Burger</div>
+
+<script>
+  const item = document.getElementById("item1");
+  const words = item.innerText.split(" ");
+
+  if (words.length >= 2) {
+    item.innerHTML = words[0] + "<br>" + words.slice(1).join(" ");
+  }
+</script>
 Jeera ajwain cookies- 49RS
 
 
